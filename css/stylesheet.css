@@ -1,0 +1,106 @@
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;
+    height: 680px;
+    margin: 0;
+    background-color:hsl(185, 75%, 39%);
+}
+.top{
+    margin: 0;
+    border-radius: 100%;
+    width: 900;
+    height: 900;
+    position: relative;
+    bottom: 450;
+    right: 250;
+}
+.bottom1{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+}
+.card-bg{
+    width: 330px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.card-pro{
+    border: 5px solid white;
+    width: 92px;
+    border-radius: 100px;
+    position: relative;
+    left: 115px;
+    bottom: 46px;
+
+}
+h4{
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+    right: 17px;
+    font-weight: bolder;
+
+}
+.card{
+    opacity: 1;
+    background-color: white;
+    height: 350;
+    width: 330;
+    border-radius: 10px;
+    position:absolute;
+    top: 260px;
+    left: 450px;
+}
+.c26{
+    font-weight: 400;
+    color: hsl(0, 0%, 59%);
+    position: relative;
+    left: 50px;
+    bottom: 92px;
+}
+.f{
+    font-size: 13px;
+    text-align: center;
+    position: relative;
+    bottom: 105px;
+    color: hsl(0, 0%, 59%);
+
+}
+
+
+.likes{
+    position: relative;
+    left: 15;
+    line-height: 0.7;
+    bottom: 88;
+
+}
+.l{
+    color: hsl(0, 0%, 59%);
+    font-size: 9px;
+    letter-spacing: 1.7;
+}
+hr{
+    border-top: 1px solid hsl(153, 20%, 82%);
+    position: relative;
+    bottom: 93px;
+    opacity: 0.5;
+}
+.k{
+    font-weight: bolder;
+    letter-spacing:1.2 ;
+    
+}
+.followers{
+    position: relative;
+    right: 90;
+    bottom: 38px;
+    line-height: 0.7;
+}
+.photos{
+    position: relative;
+    bottom: 135px;
+    line-height: 0.7;
+    left: 120px;
+}
